@@ -919,12 +919,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/ROTAS.md",
+                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROTAS"
+              "title": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
             }
           },
           {
@@ -1407,7 +1407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/ROTAS.md",
+                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1417,7 +1417,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para ROTAS"
+              "title": "Links inversos para COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
             }
           },
           {
@@ -1490,12 +1490,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7de13ecfff6a33f8",
+  "active": "14861fa280663635",
   "lastOpenFiles": [
+    "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
+    "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
+    "CCNA/ROTAS.md",
     "COMO CONFIGURAR DNS BIND9.md",
     "PROVAS.md",
     "PROVAS",
-    "Sem título.md",
     "Redes/VLAN.md",
     "Redes/UDP.md",
     "Redes/TOPOLOGIAS.md",
@@ -1523,7 +1525,6 @@
     "IMG/Pasted image 20250401082804.png",
     "ANSIBLE/REDES.md",
     "PROVAS/PROVA 25.03.25.md",
-    "CCNA/TIPOS DE ERROS.md",
     "IMG/Pasted image 20250327085830.png",
     "IMG/Pasted image 20250326082626.png",
     "IMG/Pasted image 20250325114538.png",
