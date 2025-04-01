@@ -1,0 +1,11 @@
+
+
+| Endereço IP público                                                                                    | Endereço IP privado                                                                                                          |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Alcance externo (global)                                                                               | Alcance interno (local)                                                                                                      |
+| Usado para comunicação fora da rede privada, pela internet                                             | Usado para comunicação na rede privada, com outros dispositivos domésticos ou do escritório                                  |
+| Um código numérico exclusivo nunca reutilizado por outros dispositivos                                 | Um código numérico não exclusivo que pode ser reutilizado por outros dispositivos em outras redes privadas                   |
+| Encontrado no Google: “Qual é o meu endereço IP?”                                                      | Encontrado pelas configurações internas do dispositivo                                                                       |
+| Atribuído e controlado pelo provedor de internet                                                       | Atribuído a seu dispositivo específico dentro de uma rede privada                                                            |
+| Não grátis                                                                                             | Grátis                                                                                                                       |
+| Qualquer número não incluído no intervalo de endereços IP privados reservados<br><br>Exemplo: 8.8.8.8. | 10.0.0.0 — 10.255.255.255;  <br>172.16.0.0 — 172.31.255.255;   <br>192.168.0.0 — 192.168.255.255<br><br>Exemplo: 10.11.12.13 |

@@ -1,0 +1,1530 @@
+{
+  "main": {
+    "id": "88b8f3c632d17566",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fe3fa3df4417c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b500aae2b26eb5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/COMANDOS BASH SHELL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMANDOS BASH SHELL"
+            }
+          },
+          {
+            "id": "5bd7777d5c6415ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/LINHA DE COMANDO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LINHA DE COMANDO"
+            }
+          },
+          {
+            "id": "c00a991ff13f0408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROTAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROTAS"
+            }
+          },
+          {
+            "id": "f21ee9e820f2fdcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/HIERARQUIA EM LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HIERARQUIA EM LINUX"
+            }
+          },
+          {
+            "id": "3c60957caf63a9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/ESPECIFICAR ARQUIVOS POR NOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESPECIFICAR ARQUIVOS POR NOME"
+            }
+          },
+          {
+            "id": "019d5025b69f50fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/GERENCIAR ARQUIVOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GERENCIAR ARQUIVOS"
+            }
+          },
+          {
+            "id": "157da2865130d949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/CRIAR LINKS ENTRE ARQUIVOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRIAR LINKS ENTRE ARQUIVOS"
+            }
+          },
+          {
+            "id": "b930b2b0a4b930e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/LINHA DE COMANDO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LINHA DE COMANDO"
+            }
+          },
+          {
+            "id": "676e6343e822189e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/EDITAR ARQUIVOS DE TEXTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDITAR ARQUIVOS DE TEXTO"
+            }
+          },
+          {
+            "id": "21d15c87370c48e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROTAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROTAS"
+            }
+          },
+          {
+            "id": "7084291a13987b6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "ba508fd3b16c0aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPV6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPV6"
+            }
+          },
+          {
+            "id": "68e9474bf81ace6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnicas de Troubleshooting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Técnicas de Troubleshooting"
+            }
+          },
+          {
+            "id": "8070591eeae6d115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos"
+            }
+          },
+          {
+            "id": "fdcffc40df15380b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/ALTERNAR O AMBIENTE DO SHELL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ALTERNAR O AMBIENTE DO SHELL"
+            }
+          },
+          {
+            "id": "6a8c7099a1cf1c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/USUÁRIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USUÁRIO"
+            }
+          },
+          {
+            "id": "2498aa1d2550139b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/GRUPO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GRUPO"
+            }
+          },
+          {
+            "id": "bd5925e349d8348a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/TIPOS DE USUÁRIOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIPOS DE USUÁRIOS"
+            }
+          },
+          {
+            "id": "0127d1498cbe5b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/PERMISSÕES DE ARQUIVOS E GRUPOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PERMISSÕES DE ARQUIVOS E GRUPOS"
+            }
+          },
+          {
+            "id": "5833f601953776ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/ESPECIFICAR ARQUIVOS POR NOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESPECIFICAR ARQUIVOS POR NOME"
+            }
+          },
+          {
+            "id": "13beb23daa63f58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/COMANDOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMANDOS"
+            }
+          },
+          {
+            "id": "1d2fde42314f6150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/VARIAVEIS LOCAIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VARIAVEIS LOCAIS"
+            }
+          },
+          {
+            "id": "2a7eac4b33f4512d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/VARIAVEIS DE AMBIENTE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VARIAVEIS DE AMBIENTE"
+            }
+          },
+          {
+            "id": "cd875b6e09589d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/VARIAVEL DE CAMINHO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VARIAVEL DE CAMINHO"
+            }
+          },
+          {
+            "id": "fa1d5a8404270776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/VARIAVEL EXTERNA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VARIAVEL EXTERNA"
+            }
+          },
+          {
+            "id": "4c5d4071eada8a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/FUNÇÕES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FUNÇÕES"
+            }
+          },
+          {
+            "id": "0002f9b851cf486c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPV6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPV6"
+            }
+          },
+          {
+            "id": "81d2ed95db6c2a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBER/Firewall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Firewall"
+            }
+          },
+          {
+            "id": "3804067b3868bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBER/VÍRUS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VÍRUS"
+            }
+          },
+          {
+            "id": "7f7eb28e3ddf2cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBER/WORM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WORM"
+            }
+          },
+          {
+            "id": "744b4f818459450b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBER/PHISHING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHISHING"
+            }
+          },
+          {
+            "id": "dab76a6e056a99c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBER/MAN IN THE MIDDLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAN IN THE MIDDLE"
+            }
+          },
+          {
+            "id": "f1a7c8f43defde68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/MANUAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MANUAL"
+            }
+          },
+          {
+            "id": "3fae6e1e5e48e567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/OBSERVAÇÕES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBSERVAÇÕES"
+            }
+          },
+          {
+            "id": "14b15a0ce5b15f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/MOVER COPIAR E REMOVER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOVER COPIAR E REMOVER"
+            }
+          },
+          {
+            "id": "31568c98897bb3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/MOVER COPIAR E REMOVER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOVER COPIAR E REMOVER"
+            }
+          },
+          {
+            "id": "49c132bfd7b8b281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/MORE E LESS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MORE E LESS"
+            }
+          },
+          {
+            "id": "7f399ec0654cbf94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/COMANDO TAR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMANDO TAR"
+            }
+          },
+          {
+            "id": "3786feb6762f80c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/SORT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SORT"
+            }
+          },
+          {
+            "id": "e0d39f946c4ecb8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/REGEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REGEX"
+            }
+          },
+          {
+            "id": "b54671f4bd06d6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/GREP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GREP"
+            }
+          },
+          {
+            "id": "e423f8cbdbfc1319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/EDITOR DE TEXTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDITOR DE TEXTO"
+            }
+          },
+          {
+            "id": "afd8ff26c80b1751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/MOVIMENTAÇÃO VI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOVIMENTAÇÃO VI"
+            }
+          },
+          {
+            "id": "ceab5c5282874176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/7. CAMADA DE ACESSO/Camada de Acesso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Camada de Acesso"
+            }
+          },
+          {
+            "id": "2f1d2a0a2f987628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/8. PROTOCOLO DE INTERNET/IPV4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPV4"
+            }
+          },
+          {
+            "id": "3f5348a0978c425d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/8. PROTOCOLO DE INTERNET/IPV4 E AS MÁSCARAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPV4 E AS MÁSCARAS"
+            }
+          },
+          {
+            "id": "56f9192d6cc5fb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/unicast broadcast e multicast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unicast broadcast e multicast"
+            }
+          },
+          {
+            "id": "1845e32311f72bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/IP PUBLICO E PRIVADO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP PUBLICO E PRIVADO"
+            }
+          },
+          {
+            "id": "a34774a46b6e65e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/TRADUÇÃO NAT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TRADUÇÃO NAT"
+            }
+          },
+          {
+            "id": "82649d979dc30f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/ENDEREÇOS IPV4 ESPECIAIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ENDEREÇOS IPV4 ESPECIAIS"
+            }
+          },
+          {
+            "id": "bb2983b4ef0e45b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/APIPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APIPA"
+            }
+          },
+          {
+            "id": "c2370be3ba0a07db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/CLASSES DE IPV4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLASSES DE IPV4"
+            }
+          },
+          {
+            "id": "e07a4dcfb38bae74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE/DOMINIO DE BROADCAST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOMINIO DE BROADCAST"
+            }
+          },
+          {
+            "id": "78c07d6bdcbc1450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6/A NECESSIDADE DO IPV6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A NECESSIDADE DO IPV6"
+            }
+          },
+          {
+            "id": "05620cd06e1d68e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6/COEXISTÊNCIA ENTRE IPV4 E IPV6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COEXISTÊNCIA ENTRE IPV4 E IPV6"
+            }
+          },
+          {
+            "id": "bfd5693230c98646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6/SIMPLIFICANDO IPV6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIMPLIFICANDO IPV6"
+            }
+          },
+          {
+            "id": "9b3b33f5e9a5a3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROTAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROTAS"
+            }
+          },
+          {
+            "id": "22898d382aa1824c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          },
+          {
+            "id": "c8aa447530a24d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos"
+            }
+          },
+          {
+            "id": "3a21e6461f83098e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/O QUE É O ANSIBLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O QUE É O ANSIBLE"
+            }
+          },
+          {
+            "id": "38ee62cba2c48ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/FUNCIONAMENTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FUNCIONAMENTO"
+            }
+          },
+          {
+            "id": "2407b6bf7dcf331a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO GERENCIAR ARQUIVOS DE CONFIGURAÇÃO ANSIBLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO GERENCIAR ARQUIVOS DE CONFIGURAÇÃO ANSIBLE"
+            }
+          },
+          {
+            "id": "6fc39fe60f51f6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO ESCREVER E EXECUTAR MANUAIS"
+            }
+          },
+          {
+            "id": "bc2f8fd4feaad886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/VARIAVEIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VARIAVEIS"
+            }
+          },
+          {
+            "id": "7eea6c23471b2cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SERVIDORES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SERVIDORES"
+            }
+          },
+          {
+            "id": "14861fa280663635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMO CONFIGURAR DNS BIND9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO CONFIGURAR DNS BIND9"
+            }
+          },
+          {
+            "id": "046a5a2361a7c4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRIPTOGRAFAR E DESCRIPTOGRAFAR VARIÁVEIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRIPTOGRAFAR E DESCRIPTOGRAFAR VARIÁVEIS"
+            }
+          },
+          {
+            "id": "fa7f674b1a4b2651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/FATOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FATOS"
+            }
+          },
+          {
+            "id": "285b6de26704b950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO CRIAR UM PLAYBOOK 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO CRIAR UM PLAYBOOK 1"
+            }
+          },
+          {
+            "id": "81eeee81af345ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/LOOPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LOOPS"
+            }
+          },
+          {
+            "id": "93f41a394934bddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/HANDLERS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HANDLERS"
+            }
+          },
+          {
+            "id": "fb148c45babfbb99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO ESCREVER E EXECUTAR MANUAIS"
+            }
+          },
+          {
+            "id": "cfdeb1ba3cb34b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/CRIPTOGRAFAR E DESCRIPTOGRAFAR VARIÁVEIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRIPTOGRAFAR E DESCRIPTOGRAFAR VARIÁVEIS"
+            }
+          },
+          {
+            "id": "2f611f34d6a8bd90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO IMPLANTAR ARQUIVOS PERSONALIZADOS COM JINJA2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO IMPLANTAR ARQUIVOS PERSONALIZADOS COM JINJA2"
+            }
+          },
+          {
+            "id": "e442b6194f80b7cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO IMPLANTAR ARQUIVOS PERSONALIZADOS COM JINJA2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO IMPLANTAR ARQUIVOS PERSONALIZADOS COM JINJA2"
+            }
+          },
+          {
+            "id": "f33d5ae435764b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/SIMPLIFICAÇÃO DE MANUAIS COM PAPÉIS E COLEÇÕES DE CONTEÚDO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIMPLIFICAÇÃO DE MANUAIS COM PAPÉIS E COLEÇÕES DE CONTEÚDO"
+            }
+          },
+          {
+            "id": "9c9ee372577be44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/SELEÇÃO E RECUPERAÇÃO DE FUNÇÕES DE FONTES EXTERNAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SELEÇÃO E RECUPERAÇÃO DE FUNÇÕES DE FONTES EXTERNAS"
+            }
+          },
+          {
+            "id": "01e86be5021d3683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROTAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROTAS"
+            }
+          },
+          {
+            "id": "dd8c0caaf298639a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/REUTULIZAÇÃO DE CONTEÚDO COM FUNÇÕES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REUTULIZAÇÃO DE CONTEÚDO COM FUNÇÕES"
+            }
+          },
+          {
+            "id": "0f15be8fa09effbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS GENÉRICOS COM PLAYBOOKS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLUÇÃO DE PROBLEMAS GENÉRICOS COM PLAYBOOKS"
+            }
+          },
+          {
+            "id": "a6dc9c8f513c44c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS"
+            }
+          },
+          {
+            "id": "95759e068c65168f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/AUTOMAÇÃO DE TAREFAS DE ADMINISTRAÇÃO LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AUTOMAÇÃO DE TAREFAS DE ADMINISTRAÇÃO LINUX"
+            }
+          },
+          {
+            "id": "022c2c697009f2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/GERENCIANDO SOFTWARE E ASSINATURAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GERENCIANDO SOFTWARE E ASSINATURAS"
+            }
+          },
+          {
+            "id": "cc70a97c1d988e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/GERENCIAMENTO DE USUARIOS GRUPOS SSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GERENCIAMENTO DE USUARIOS GRUPOS SSH"
+            }
+          },
+          {
+            "id": "b835725499bfdb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/REGEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REGEX"
+            }
+          },
+          {
+            "id": "32f721271bc8517b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REDES"
+            }
+          },
+          {
+            "id": "de0bb1dcb9300a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/ESTRUTURA BÁSICA DE COMANDOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESTRUTURA BÁSICA DE COMANDOS"
+            }
+          },
+          {
+            "id": "686ca698b79411d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/ATALHOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATALHOS"
+            }
+          },
+          {
+            "id": "9f3e720840d2dc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/CONFIGURAR SENHAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONFIGURAR SENHAS"
+            }
+          },
+          {
+            "id": "7867d6ffe36fd57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/CRIPTOGRAFAR SENHAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRIPTOGRAFAR SENHAS"
+            }
+          },
+          {
+            "id": "65dc3b6eb91b0c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/CONFIGURAR SENHAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONFIGURAR SENHAS"
+            }
+          },
+          {
+            "id": "cd5db17681bee569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/CONFIGURAR SENHAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONFIGURAR SENHAS"
+            }
+          },
+          {
+            "id": "5736251219f21e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/MOVIMENTAÇÃO VI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOVIMENTAÇÃO VI"
+            }
+          },
+          {
+            "id": "d6d644b2803641b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERROS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ERROS"
+            }
+          },
+          {
+            "id": "7615ec14a7596cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO ESCREVER E EXECUTAR MANUAIS"
+            }
+          }
+        ],
+        "currentTab": 65
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6693933a24760f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5f1db531da5a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de13ecfff6a33f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fe296595f0193229",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "344c3e780be5b983",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4145d820b5f14489",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73c38254e4b3905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "752ab5091b44a05e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMO CONFIGURAR DNS BIND9.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para COMO CONFIGURAR DNS BIND9"
+            }
+          },
+          {
+            "id": "515b5b9c1bdc9fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINUX/ACESSO ROOT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para ACESSO ROOT"
+            }
+          },
+          {
+            "id": "76d94f7a46e4127c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e81468ea8715c19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ANSIBLE/FUNCIONAMENTO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de FUNCIONAMENTO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7de13ecfff6a33f8",
+  "lastOpenFiles": [
+    "Reposit-rio-obisidian",
+    "IMG/Pasted image 20250401083606.png",
+    "PROVA DIA 27.03.25.md",
+    "COMO CONFIGURAR DNS BIND9.md",
+    "IMG",
+    "IMG/Pasted image 20250401083104.png",
+    "IMG/Pasted image 20250401082804.png",
+    "ANSIBLE/REDES.md",
+    "PROVA 25.03.25.md",
+    "CCNA/TIPOS DE ERROS.md",
+    "CCNA/ESTRUTURA BÁSICA DE COMANDOS.md",
+    "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS GENÉRICOS COM PLAYBOOKS.md",
+    "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS.md",
+    "PROVA DIA 26.03.25.md",
+    "LINUX/MORE E LESS.md",
+    "LINUX/HEAD E TAIL.md",
+    "LINUX/ACESSO ROOT.md",
+    "LINUX/PERMISSÕES DE ARQUIVOS E GRUPOS.md",
+    "LINUX/TIPOS DE USUÁRIOS.md",
+    "LINUX/GRUPO.md",
+    "LINUX/USUÁRIO.md",
+    "LINUX/ALTERNAR O AMBIENTE DO SHELL.md",
+    "LINUX/EDITAR ARQUIVOS DE TEXTO.md",
+    "LINUX/GERENCIAR ARQUIVOS.md",
+    "LINUX/ESPECIFICAR ARQUIVOS POR NOME.md",
+    "LINUX/HIERARQUIA EM LINUX.md",
+    "LINUX/LINHA DE COMANDO.md",
+    "LINUX/COMANDOS BASH SHELL.md",
+    "PROVAS.md",
+    "SERVIDORES.md",
+    "IMG/Pasted image 20250327085830.png",
+    "IMG/Pasted image 20250326082626.png",
+    "IMG/Pasted image 20250325114538.png",
+    "IMG/Pasted image 20250325085524.png",
+    "IMG/Pasted image 20250325084017.png",
+    "IMG/Pasted image 20250325083937.png",
+    "Pasted image 20250218142955.png",
+    "CCNA",
+    "ANSIBLE/TROUBLEHOOTING ANSIBLE",
+    "ANSIBLE",
+    "CYBER",
+    "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6",
+    "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE",
+    "APRESENTAÇÃO DIA 17.01",
+    "APRESENTAÇÃO DIA 17.01/8. PROTOCOLO DE INTERNET",
+    "APRESENTAÇÃO DIA 17.01/7. CAMADA DE ACESSO"
+  ]
+}

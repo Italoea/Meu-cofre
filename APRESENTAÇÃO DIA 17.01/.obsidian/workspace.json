@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "9603c7003efa39c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e525b939de582051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64eff29c6088f97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROTOCOLO DE INTERNET/IPV4 E AS MÁSCARAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPV4 E AS MÁSCARAS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "430c07f00bf8f38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "937d2f5df96848db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e8a6d6bc08abfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ae72170b99d3de8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8c44539b0cd374a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d393ccbaf14b2370",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff86f6a883f7c7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767f2d389b9be502",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROTOCOLO DE INTERNET/IPV4 E AS MÁSCARAS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para IPV4 E AS MÁSCARAS"
+            }
+          },
+          {
+            "id": "94caf0c8ffc0f874",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROTOCOLO DE INTERNET/IPV4 E AS MÁSCARAS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para IPV4 E AS MÁSCARAS"
+            }
+          },
+          {
+            "id": "c196932409fd40b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "abd520b174722052",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROTOCOLO DE INTERNET/IPV4 E AS MÁSCARAS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de IPV4 E AS MÁSCARAS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "16e8a6d6bc08abfa",
+  "lastOpenFiles": [
+    "PROTOCOLO DE INTERNET/IPV4.md",
+    "CAMADA DE ACESSO/Quadro Ethernet.md",
+    "CAMADA DE ACESSO/Encapsulamento.md",
+    "CAMADA DE ACESSO/Camada de Acesso.md"
+  ]
+}
