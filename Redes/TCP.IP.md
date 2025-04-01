@@ -1,0 +1,3 @@
+![[Pasted image 20241101173814.png]]
+
+### O TCP/IP divide as tarefas de comunicação em camadas que mantêm o processo padronizado, sem que os provedores de hardware e software tenham que tentar gerenciá-lo por conta própria. Os pacotes de dados devem passar por quatro camadas antes de serem recebidos pelo dispositivo de destino; depois, o TCP/IP passa pelas camadas na ordem inversa para colocar a mensagem de volta em seu formato original.

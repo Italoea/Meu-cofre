@@ -1461,8 +1461,19 @@
               "icon": "lucide-list",
               "title": "Sumário de FUNCIONAMENTO"
             }
+          },
+          {
+            "id": "3380b02974ad2451",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -1475,11 +1486,31 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7de13ecfff6a33f8",
+  "active": "14861fa280663635",
   "lastOpenFiles": [
+    "Redes/VLAN.md",
+    "Redes/UDP.md",
+    "Redes/TOPOLOGIAS.md",
+    "Redes/TCP.md",
+    "Redes/TCP.IP.md",
+    "Redes/PROTOCOLO STP CAMADA 2.md",
+    "Redes/PROTOCOLO ETHERNET.md",
+    "Redes/Modelo OSI.md",
+    "Redes/LAN E WAN.md",
+    "Redes/ESTADOS QUE UMA PORTA EM UM SWITCH COM STP HABILITADO.md",
+    "Redes/ESCOPOS DE REDE.md",
+    "Redes/ENDEREÇO IP.md",
+    "Redes/DOMÍNIO DE BROADCAST.md",
+    "Redes/CONVERSÃO DECIMAL.md",
+    "Redes/Conceitos básicos de rede.md",
+    "Redes/CAMADA DE LINK DE DADOS.md",
+    "Redes/BROADCAST, UNICAST E MULTICAST.md",
+    "Redes/APIPA.md",
+    "Redes",
     "Reposit-rio-obisidian",
     "IMG/Pasted image 20250401083606.png",
     "PROVA DIA 27.03.25.md",
@@ -1493,23 +1524,6 @@
     "CCNA/ESTRUTURA BÁSICA DE COMANDOS.md",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS GENÉRICOS COM PLAYBOOKS.md",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS.md",
-    "PROVA DIA 26.03.25.md",
-    "LINUX/MORE E LESS.md",
-    "LINUX/HEAD E TAIL.md",
-    "LINUX/ACESSO ROOT.md",
-    "LINUX/PERMISSÕES DE ARQUIVOS E GRUPOS.md",
-    "LINUX/TIPOS DE USUÁRIOS.md",
-    "LINUX/GRUPO.md",
-    "LINUX/USUÁRIO.md",
-    "LINUX/ALTERNAR O AMBIENTE DO SHELL.md",
-    "LINUX/EDITAR ARQUIVOS DE TEXTO.md",
-    "LINUX/GERENCIAR ARQUIVOS.md",
-    "LINUX/ESPECIFICAR ARQUIVOS POR NOME.md",
-    "LINUX/HIERARQUIA EM LINUX.md",
-    "LINUX/LINHA DE COMANDO.md",
-    "LINUX/COMANDOS BASH SHELL.md",
-    "PROVAS.md",
-    "SERVIDORES.md",
     "IMG/Pasted image 20250327085830.png",
     "IMG/Pasted image 20250326082626.png",
     "IMG/Pasted image 20250325114538.png",
@@ -1523,8 +1537,6 @@
     "CYBER",
     "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6",
     "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE",
-    "APRESENTAÇÃO DIA 17.01",
-    "APRESENTAÇÃO DIA 17.01/8. PROTOCOLO DE INTERNET",
-    "APRESENTAÇÃO DIA 17.01/7. CAMADA DE ACESSO"
+    "APRESENTAÇÃO DIA 17.01"
   ]
 }
