@@ -90,6 +90,7 @@ sudo systemctl restart apache2
 ```sh
 curl (IP_DO_SERVIDOR)
 ```
+![[Pasted image 20250401100109.png]]
 Abra um navegador e acesse:
 
 ```
