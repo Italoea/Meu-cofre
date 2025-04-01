@@ -50,3 +50,4 @@ Se o servidor DNS estiver configurado corretamente irá aparecer um mensagem igu
 ![[Pasted image 20250401083606.png]]
 
 # NÃO SE ESQUEÇA DE ADICONAR UM IP NA SUA MÁQUINA!!!!
+
