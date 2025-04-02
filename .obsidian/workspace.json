@@ -1407,7 +1407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
+                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1417,7 +1417,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para COMO CONFIGURAR SERVIDOR WEB APACHE2"
+              "title": "Links inversos para COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
             }
           },
           {
@@ -1492,10 +1492,16 @@
   },
   "active": "14861fa280663635",
   "lastOpenFiles": [
-    "Pasted image 20250401100109.png",
-    "COMO CONFIGURAR DNS BIND9.md",
-    "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
+    "COMO USAR IPCALC.md",
+    "IMG/Pasted image 20250401100109.png",
+    "IMG/Pasted image 20250402112053.png",
+    "PROVAS/PROVA 25.03.25.md",
+    "Sem título",
+    "COMO CONFIGURAR ETHERCHANNEL.md",
+    "IMG/Pasted image 20250401141432.png",
     "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
+    "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
+    "COMO CONFIGURAR DNS BIND9.md",
     "CCNA/ROTAS.md",
     "PROVAS.md",
     "PROVAS",
@@ -1516,27 +1522,20 @@
     "Redes/Conceitos básicos de rede.md",
     "Redes/CAMADA DE LINK DE DADOS.md",
     "Redes/BROADCAST, UNICAST E MULTICAST.md",
-    "Redes/APIPA.md",
     "Redes",
     "Reposit-rio-obisidian",
     "IMG/Pasted image 20250401083606.png",
-    "PROVAS/PROVA DIA 27.03.25.md",
     "IMG",
     "IMG/Pasted image 20250401083104.png",
     "IMG/Pasted image 20250401082804.png",
-    "ANSIBLE/REDES.md",
     "IMG/Pasted image 20250327085830.png",
     "IMG/Pasted image 20250326082626.png",
     "IMG/Pasted image 20250325114538.png",
     "IMG/Pasted image 20250325085524.png",
-    "IMG/Pasted image 20250325084017.png",
-    "IMG/Pasted image 20250325083937.png",
-    "Pasted image 20250218142955.png",
     "CCNA",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE",
     "ANSIBLE",
     "CYBER",
-    "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6",
-    "APRESENTAÇÃO DIA 17.01/9. IPV4 E SEGMENTAÇÃO DE REDE"
+    "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6"
   ]
 }
