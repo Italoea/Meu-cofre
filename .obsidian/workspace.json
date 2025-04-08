@@ -933,12 +933,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO CONFIGURAR ETHERCHANNEL.md",
+                "file": "COMO CRIAR UMA VLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR ETHERCHANNEL"
+              "title": "COMO CRIAR UMA VLAN"
             }
           },
           {
@@ -1405,7 +1405,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "right": {
     "id": "4145d820b5f14489",
@@ -1421,17 +1421,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
-                "collapseAll": true,
+                "file": "COMO CRIAR UMA VLAN.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
+              "title": "Links inversos para COMO CRIAR UMA VLAN"
             }
           },
           {
@@ -1506,15 +1506,20 @@
   },
   "active": "474cc3dd89f3df59",
   "lastOpenFiles": [
-    "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
-    "COMO CONFIGURAR DNS BIND9.md",
+    "IMG/Pasted image 20250407171159.png",
+    "COMO CRIAR UMA VLAN.md",
+    "COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
     "CONFIGURAÇÕES BIND9.md",
+    "COMO RECUPERAR A SENHA DO ROOT.md",
+    "COMO CRIAR UM SERVIDOR SAMBA.md",
+    "COMO CONFIGURAR DHCP LINUX.md",
+    "ADICIONANDO ISO EVE.md",
+    "SERVIDORES.md",
+    "COMO USAR IPCALC.md",
+    "COMO CONFIGURAR DNS BIND9.md",
+    "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
     "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
     "COMO CONFIGURAR ETHERCHANNEL.md",
-    "COMO USAR IPCALC.md",
-    "COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
-    "COMO CONFIGURAR DHCP LINUX.md",
-    "SERVIDORES.md",
     "IMG/Pasted image 20250401100109.png",
     "IMG/Pasted image 20250402112053.png",
     "PROVAS/PROVA 25.03.25.md",
@@ -1532,11 +1537,6 @@
     "Redes/PROTOCOLO ETHERNET.md",
     "Redes/Modelo OSI.md",
     "Redes/LAN E WAN.md",
-    "Redes/ESTADOS QUE UMA PORTA EM UM SWITCH COM STP HABILITADO.md",
-    "Redes/ESCOPOS DE REDE.md",
-    "Redes/ENDEREÇO IP.md",
-    "Redes/DOMÍNIO DE BROADCAST.md",
-    "Redes/CONVERSÃO DECIMAL.md",
     "Redes",
     "Reposit-rio-obisidian",
     "IMG/Pasted image 20250401083606.png",
@@ -1546,7 +1546,6 @@
     "IMG/Pasted image 20250327085830.png",
     "IMG/Pasted image 20250326082626.png",
     "IMG/Pasted image 20250325114538.png",
-    "IMG/Pasted image 20250325085524.png",
     "CCNA",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE",
     "ANSIBLE",
