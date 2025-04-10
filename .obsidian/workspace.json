@@ -933,12 +933,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
+                "file": "ANSIBLE/HANDLERS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO ESCREVER E EXECUTAR MANUAIS"
+              "title": "HANDLERS"
             }
           },
           {
@@ -1405,7 +1405,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 526.5
   },
   "right": {
     "id": "4145d820b5f14489",
@@ -1504,40 +1504,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "474cc3dd89f3df59",
+  "active": "7de13ecfff6a33f8",
   "lastOpenFiles": [
+    "DOCUMENTAÇÕES WINDOWS",
+    "DOCUMENTAÇÕES LINUX",
+    "ANSIBLE/LOOPS.md",
+    "ANSIBLE/COMO CRIAR UM PLAYBOOK 2.md",
+    "ANSIBLE/COMO CRIAR UM PLAYBOOK 1.md",
+    "ANSIBLE/FATOS.md",
+    "ANSIBLE/CRIPTOGRAFAR E DESCRIPTOGRAFAR VARIÁVEIS.md",
+    "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
     "ANSIBLE/COMO GERENCIAR ARQUIVOS DE CONFIGURAÇÃO ANSIBLE.md",
     "ANSIBLE/FUNCIONAMENTO.md",
     "ANSIBLE/O QUE É O ANSIBLE.md",
-    "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
     "PROVAS/PROVA 25.03.25.md",
-    "COMO INSTALAR O AD DOMAIN CONTROLLER WINDOWS 2022.md",
-    "COMO CONFIGURAR DHCP WINDOWS 2022.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO INSTALAR O AD DOMAIN CONTROLLER WINDOWS 2022.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR DHCP WINDOWS 2022.md",
     "COMO CONFIGURAR O DTP.md",
     "COMO ADICIONAR MODO TRUNK.md",
     "COMO CRIAR UMA VLAN.md",
-    "COMO CRIAR UM SERVIDOR SAMBA.md",
-    "COMO RECUPERAR A SENHA DO ROOT.md",
-    "ADICIONANDO ISO EVE.md",
-    "CONFIGURAÇÕES BIND9.md",
-    "COMO CONFIGURAR DHCP LINUX.md",
-    "COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
-    "COMO USAR IPCALC.md",
+    "DOCUMENTAÇÕES LINUX/COMO CRIAR UM SERVIDOR SAMBA.md",
+    "DOCUMENTAÇÕES LINUX/COMO RECUPERAR A SENHA DO ROOT.md",
+    "DOCUMENTAÇÕES WINDOWS/ADICIONANDO ISO EVE.md",
+    "DOCUMENTAÇÕES LINUX/CONFIGURAÇÕES BIND9.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
+    "DOCUMENTAÇÕES LINUX/COMO USAR IPCALC.md",
     "COMO CONFIGURAR ETHERCHANNEL.md",
     "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
-    "COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
-    "COMO CONFIGURAR DNS BIND9.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
     "IMG/Pasted image 20250407171159.png",
-    "SERVIDORES.md",
     "IMG/Pasted image 20250401100109.png",
     "IMG/Pasted image 20250402112053.png",
-    "Sem título",
     "IMG/Pasted image 20250401141432.png",
-    "CCNA/ROTAS.md",
-    "PROVAS.md",
     "PROVAS",
-    "Redes/VLAN.md",
-    "Redes/UDP.md",
     "Redes",
     "Reposit-rio-obisidian",
     "IMG/Pasted image 20250401083606.png",
