@@ -933,12 +933,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANSIBLE/HANDLERS.md",
+                "file": "SERVIDORES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HANDLERS"
+              "title": "SERVIDORES"
             }
           },
           {
@@ -1504,8 +1504,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7de13ecfff6a33f8",
+  "active": "474cc3dd89f3df59",
   "lastOpenFiles": [
+    "Redes/APIPA.md",
+    "Redes/BROADCAST, UNICAST E MULTICAST.md",
+    "Redes/CAMADA DE LINK DE DADOS.md",
+    "Redes/Conceitos básicos de rede.md",
+    "Redes/CONVERSÃO DECIMAL.md",
+    "Redes/DOMÍNIO DE BROADCAST.md",
+    "Redes/ENDEREÇO IP.md",
+    "Redes/ESCOPOS DE REDE.md",
+    "Redes/ESTADOS QUE UMA PORTA EM UM SWITCH COM STP HABILITADO.md",
+    "Redes/Modelo OSI.md",
+    "Redes/UDP.md",
+    "Redes/VLAN.md",
+    "COMO CONFIGURAR O SPANNING TREE.md",
+    "COMO CONFIGURAR ETHERCHANNEL.md",
+    "ANSIBLE/HANDLERS.md",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
     "ANSIBLE/LOOPS.md",
@@ -1519,20 +1534,6 @@
     "ANSIBLE/O QUE É O ANSIBLE.md",
     "PROVAS/PROVA 25.03.25.md",
     "DOCUMENTAÇÕES WINDOWS/COMO INSTALAR O AD DOMAIN CONTROLLER WINDOWS 2022.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR DHCP WINDOWS 2022.md",
-    "COMO CONFIGURAR O DTP.md",
-    "COMO ADICIONAR MODO TRUNK.md",
-    "COMO CRIAR UMA VLAN.md",
-    "DOCUMENTAÇÕES LINUX/COMO CRIAR UM SERVIDOR SAMBA.md",
-    "DOCUMENTAÇÕES LINUX/COMO RECUPERAR A SENHA DO ROOT.md",
-    "DOCUMENTAÇÕES WINDOWS/ADICIONANDO ISO EVE.md",
-    "DOCUMENTAÇÕES LINUX/CONFIGURAÇÕES BIND9.md",
-    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
-    "DOCUMENTAÇÕES LINUX/COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
-    "DOCUMENTAÇÕES LINUX/COMO USAR IPCALC.md",
-    "COMO CONFIGURAR ETHERCHANNEL.md",
-    "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
-    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
     "IMG/Pasted image 20250407171159.png",
     "IMG/Pasted image 20250401100109.png",
     "IMG/Pasted image 20250402112053.png",
@@ -1550,7 +1551,6 @@
     "CCNA",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE",
     "ANSIBLE",
-    "CYBER",
-    "APRESENTAÇÃO DIA 17.01/10. FORMATOS E REGRAS DE ENDEREÇAMENTO IPV6"
+    "CYBER"
   ]
 }
