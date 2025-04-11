@@ -8,3 +8,8 @@
 ### **Forwading** -- Uma porta funcionando normalmente ou seja, recebendo e encaminhando quadros, mesmo assim, continua monitorando BPDU's para saber se em algum momento não deve entrar em estado bloqueado.
 
 ### **Disabled** -- Uma porta desabilitada, pode ser feito pelo administrador da rede manualmente.
+
+
+
+
+
