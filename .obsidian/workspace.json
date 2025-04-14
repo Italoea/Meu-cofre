@@ -933,12 +933,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESTADOS DO STP.md",
+                "file": "ANSIBLE/FUNCIONAMENTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESTADOS DO STP"
+              "title": "FUNCIONAMENTO"
             }
           },
           {
@@ -1405,7 +1405,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 368.5
   },
   "right": {
     "id": "4145d820b5f14489",
@@ -1506,13 +1506,22 @@
   },
   "active": "474cc3dd89f3df59",
   "lastOpenFiles": [
+    "ANSIBLE/O QUE É O ANSIBLE.md",
+    "COMO CONFIGURAR ETHERCHANNEL.md",
+    "COMO CONFIGURAR O SPANNING TREE.md",
+    "COMO FAZER UM ROTEAMENTO ENTRE VLANS.md",
+    "IMG/Pasted image 20250414155617.png",
+    "COMO CRIAR UMA VLAN.md",
+    "Redes/TCP.IP.md",
+    "CCNA/CONFIGURAR SENHAS.md",
+    "COMO CONFIGURAR DHCPV4 ROTADOR CISCO.md",
+    "COMO CONFIGURAR DHCPV4 EM UMSWITCH CISCO.md",
+    "COO FUNCIONA O DHCPV4.md",
+    "ESTADOS DO STP.md",
     "COMO CONFIGURAR O DTP.md",
     "COMO ADICIONAR MODO TRUNK.md",
-    "COMO CRIAR UMA VLAN.md",
     "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
-    "COMO CONFIGURAR O SPANNING TREE.md",
     "Redes/ESTADOS QUE UMA PORTA EM UM SWITCH COM STP HABILITADO.md",
-    "ESTADOS DO STP.md",
     "Redes/ESCOPOS DE REDE.md",
     "Redes/LAN E WAN.md",
     "Redes/PROTOCOLO STP CAMADA 2.md",
@@ -1524,16 +1533,8 @@
     "Redes/Conceitos básicos de rede.md",
     "Redes/CONVERSÃO DECIMAL.md",
     "Redes/DOMÍNIO DE BROADCAST.md",
-    "Redes/ENDEREÇO IP.md",
-    "Redes/Modelo OSI.md",
-    "Redes/UDP.md",
-    "Redes/VLAN.md",
-    "COMO CONFIGURAR ETHERCHANNEL.md",
-    "ANSIBLE/HANDLERS.md",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
-    "ANSIBLE/LOOPS.md",
-    "ANSIBLE/COMO CRIAR UM PLAYBOOK 2.md",
     "IMG/Pasted image 20250407171159.png",
     "IMG/Pasted image 20250401100109.png",
     "IMG/Pasted image 20250402112053.png",
@@ -1547,7 +1548,6 @@
     "IMG/Pasted image 20250401082804.png",
     "IMG/Pasted image 20250327085830.png",
     "IMG/Pasted image 20250326082626.png",
-    "IMG/Pasted image 20250325114538.png",
     "CCNA",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE",
     "ANSIBLE",
