@@ -933,12 +933,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANSIBLE/COMO CRIAR UM PLAYBOOK 1.md",
+                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CRIAR UM PLAYBOOK 1"
+              "title": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
+            }
+          },
+          {
+            "id": "95d12d62feb462f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
             }
           },
           {
@@ -1348,7 +1362,7 @@
             }
           }
         ],
-        "currentTab": 66
+        "currentTab": 67
       }
     ],
     "direction": "vertical"
@@ -1405,7 +1419,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 420.5
   },
   "right": {
     "id": "4145d820b5f14489",
@@ -1504,35 +1518,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "474cc3dd89f3df59",
+  "active": "95d12d62feb462f8",
   "lastOpenFiles": [
-    "ANSIBLE/O QUE É O ANSIBLE.md",
-    "ANSIBLE/COMO CRIAR UM PLAYBOOK 1.md",
+    "COMO CONFIGURAR ETHERCHANNEL.md",
+    "COMO CRIAR UMA VLAN.md",
+    "COO FUNCIONA O DHCPV4.md",
+    "ESTADOS DO STP.md",
+    "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
+    "COMO CONFIGURAR O DTP.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DNS BIND9.md",
+    "DOCUMENTAÇÕES LINUX/CONFIGURAÇÕES BIND9.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
+    "DOCUMENTAÇÕES LINUX/COMO RECUPERAR A SENHA DO ROOT.md",
+    "PROVAS/PROVA 25.03.25.md",
+    "PROVAS/PROVA DIA 27.03.25.md",
+    "PROVAS/PROVA DIA 26.03.25.md",
     "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
     "ANSIBLE/COMO GERENCIAR ARQUIVOS DE CONFIGURAÇÃO ANSIBLE.md",
     "ANSIBLE/FUNCIONAMENTO.md",
+    "ANSIBLE/O QUE É O ANSIBLE.md",
+    "COMO FAZER UM ROTEAMENTO ENTRE VLANS.md",
+    "ANSIBLE/COMO CRIAR UM PLAYBOOK 1.md",
     "ANSIBLE/FALHAS DE TAREFAS.md",
     "ANSIBLE/COMO CRIAR UM PLAYBOOK 2.md",
     "FHRP.md",
-    "COMO CONFIGURAR ETHERCHANNEL.md",
     "COMO CONFIGURAR O SPANNING TREE.md",
-    "COMO FAZER UM ROTEAMENTO ENTRE VLANS.md",
     "IMG/Pasted image 20250414155617.png",
-    "COMO CRIAR UMA VLAN.md",
     "Redes/TCP.IP.md",
     "CCNA/CONFIGURAR SENHAS.md",
-    "COMO CONFIGURAR DHCPV4 ROTADOR CISCO.md",
-    "COMO CONFIGURAR DHCPV4 EM UMSWITCH CISCO.md",
-    "COO FUNCIONA O DHCPV4.md",
-    "ESTADOS DO STP.md",
-    "COMO CONFIGURAR O DTP.md",
-    "COMO ADICIONAR MODO TRUNK.md",
-    "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
-    "Redes/ESTADOS QUE UMA PORTA EM UM SWITCH COM STP HABILITADO.md",
-    "Redes/ESCOPOS DE REDE.md",
-    "Redes/LAN E WAN.md",
-    "Redes/PROTOCOLO STP CAMADA 2.md",
-    "Redes/PROTOCOLO ETHERNET.md",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
     "IMG/Pasted image 20250407171159.png",
