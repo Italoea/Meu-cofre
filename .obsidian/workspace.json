@@ -947,12 +947,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
+                "file": "NETWORK MANAGER LINUX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2"
+              "title": "NETWORK MANAGER LINUX"
             }
           },
           {
@@ -1520,16 +1520,19 @@
   },
   "active": "95d12d62feb462f8",
   "lastOpenFiles": [
+    "COMO CRIAR ROTA ESTÁTICA NO ROTEADOR.md",
+    "NETWORK MANAGER LINUX.md",
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
+    "COMANDOS ROTEADOR.md",
+    "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
     "COMO CONFIGURAR ETHERCHANNEL.md",
     "COMO CRIAR UMA VLAN.md",
     "COO FUNCIONA O DHCPV4.md",
     "ESTADOS DO STP.md",
-    "COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
     "COMO CONFIGURAR O DTP.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DNS BIND9.md",
     "DOCUMENTAÇÕES LINUX/CONFIGURAÇÕES BIND9.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
-    "DOCUMENTAÇÕES LINUX/COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
     "DOCUMENTAÇÕES LINUX/COMO RECUPERAR A SENHA DO ROOT.md",
     "PROVAS/PROVA 25.03.25.md",
     "PROVAS/PROVA DIA 27.03.25.md",
@@ -1543,10 +1546,7 @@
     "ANSIBLE/FALHAS DE TAREFAS.md",
     "ANSIBLE/COMO CRIAR UM PLAYBOOK 2.md",
     "FHRP.md",
-    "COMO CONFIGURAR O SPANNING TREE.md",
     "IMG/Pasted image 20250414155617.png",
-    "Redes/TCP.IP.md",
-    "CCNA/CONFIGURAR SENHAS.md",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
     "IMG/Pasted image 20250407171159.png",
