@@ -122,3 +122,7 @@ Agora seu servidor DHCP está configurado e pronto para distribuir endereços IP
 ---
 
 **Nota:** Certifique-se de que não há outro servidor DHCP na mesma rede para evitar conflitos de endereçamento IP.
+
+
+
+apt-cdrom add
