@@ -127,6 +127,27 @@ address face:2025:2028::4/64
 
 # 3º PASSO: CONFIGURAR O SERVIDOR DHCP NO ISP-ROUTER
 
+IPv4:
+
+- Escopo: 10.0.0.200 - 10.0.0.250
+    
+- Máscara de sub-rede: 255.255.255.0
+    
+- Gateway: 10.0.0.1
+    
+- DNS: 192.168.1.3
+    
+
+IPv6:
+
+- Escopo: faca:2025:2028::300 - faca:2025:2028::500
+    
+- Máscara de sub-rede: ffff:ffff:ffff:ffff::0
+    
+- Gateway: faca:2025:2028::1
+    
+- DNS: face:2025:2028::3
+    
 ### Para instalar o servidor dhcp
 
 ```
@@ -153,5 +174,26 @@ range6 faca:2025:2028::300 faca:2025:2028::500; #Range de IP
 option dhcp6.name-servers face:2025:2028::3; #Servidor DNS
 option dhcp6.info-refresh-time 21600;
 }
+```
+
+### PARA CONFIGURAR A INTERFACE QUE O DHCP VAI RODAR VÁ PARA: nano/etc/defautl/isc-dhcp-server
+
+```
+	DESCOMENTE ESSAS LINHAS
+DHCPDv6_CONF=/etc/dhcp/dhcpd6.conf
+DHCPDv6_PID=/var/run/dhcpd6.pid
+
+	PARA CONFIGURAR A INTERFACE QUE O DHCP VAI RODAR
+INTERFACESv4="ens256"
+INTERFACESv6="ens256"
+```
+
+
+# 4° PASSO: CONFIGURAR AS ROTAS DE ACORDO COM A PROVA.
+
+#### **Todas as redes internas devem se comunicar!
+
+```
+COMO AS INTERFACES DE GATWEY ESTÃO EM UM ÚNICO SERVIDOR, APÓS AS CONFIGURAÇÕES ACIMA, ELES DEVERÃO SE COMUNICAR SEM ÊXITO.
 ```
 
