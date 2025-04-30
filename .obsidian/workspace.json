@@ -947,12 +947,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
+                "file": "LINUX ENVIRONMENT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR DHCP LINUX"
+              "title": "LINUX ENVIRONMENT"
             }
           },
           {
@@ -1520,10 +1520,11 @@
   },
   "active": "95d12d62feb462f8",
   "lastOpenFiles": [
+    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
+    "OSPF.md",
+    "LINUX ENVIRONMENT.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR O SPANNING TREE.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR ETHERCHANNEL.md",
-    "LINUX ENVIRONMENT.md",
-    "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
     "DOCUMENTAÇÕES LINUX/COMO RECUPERAR A SENHA DO ROOT.md",
     "DOCUMENTAÇÕES LINUX/COMO CRIAR UM SERVIDOR SAMBA.md",
     "DOCUMENTAÇÕES LINUX/NETWORK MANAGER LINUX.md",
@@ -1551,7 +1552,6 @@
     "DOCUMENTAÇÕES ATIVOS DE REDES/FHRP.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMANDOS ROTEADOR.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
     "IMG/Pasted image 20250407171159.png",
