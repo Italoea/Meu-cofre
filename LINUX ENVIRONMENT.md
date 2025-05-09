@@ -19,6 +19,7 @@ auto ens192
 iface ens192 inet static
 address 210.103.5.2
 netmask 255.255.255.252
+gateway 210.103.5.1
 
 iface ens192 inet6 static
 address cafe:2025:2028::2/64
@@ -77,6 +78,7 @@ auto ens192
 iface ens192 inet static
 address 10.0.0.2
 netmask 255.255.255.0
+gateway 10.0.0.1
 
 iface ens192 inet6 static
 address faca:2025:2028::2/64
@@ -90,6 +92,7 @@ auto ens192
 iface ens192 inet static
 address 192.168.1.2
 netmask 255.255.255.0
+gateway 192.168.1.1
 
 iface ens192 inet6 static
 address face:2025:2028::2/64
@@ -103,6 +106,7 @@ auto ens192
 iface ens192 inet static
 address 192.168.1.3
 netmask 255.255.255.0
+gateway 192.168.1.1
 
 iface ens193 inet6 static
 address face:2025:2028::3/64
@@ -115,6 +119,7 @@ address face:2025:2028::3/64
 auto ens192
 iface ens192 inet static
 address 192.168.1.4
+gateway 192.168.1.1
 
 iface ens192 inet6 static 
 address face:2025:2028::4/64
@@ -154,7 +159,7 @@ IPv6:
 apt install isc-dhcp-server
 ```
 
-### PARA CONFIGURAR DHCP IPV4: nano /etc/dhcp/dhcp/dhcpd.conf
+### PARA CONFIGURAR DHCP ***IPV4:*** nano /etc/dhcp/dhcp/dhcpd.conf
 
 ```
 subnet 10.0.0.0 netmask 255.255.255.0 {
@@ -166,7 +171,7 @@ max-lease-time7200;
 }
 ```
 
-### PARA CONFIGURAR DHCP IPV6: nano /etc/dhcp/dhcp/dhcpd6.conf
+### PARA CONFIGURAR DHCP ***IPV6***: nano /etc/dhcp/dhcp/dhcpd6.conf
 
 ```
 subnet6 faca:2025:2028::/64 {
@@ -194,6 +199,72 @@ INTERFACESv6="ens256"
 #### **Todas as redes internas devem se comunicar!
 
 ```
-COMO AS INTERFACES DE GATWEY ESTÃO EM UM ÚNICO SERVIDOR, APÓS AS CONFIGURAÇÕES ACIMA, ELES DEVERÃO SE COMUNICAR SEM ÊXITO.
+COMO AS INTERFACES DE GATEWEY ESTÃO EM UM ÚNICO SERVIDOR, APÓS AS CONFIGURAÇÕES ACIMA, ELES DEVERÃO SE COMUNICAR SEM ÊXITO.
 ```
 
+
+# 5° PASSO: BAIXAR O ANSIBLE NA MÁQUINA DEV-MACHINE E CRIAR O DIRETÓRIO.
+
+```
+apt install ansible
+mkdir -p /data/ansible
+```
+
+## Caso dê erro de unable to fetch some archives, maybe run apt-get update or try with --fix-missing
+
+ ## Vá para nano /etc/apt/sources.list
+## Comente as linhas dos repositórios se for netinst e deixe só a do dlbd
+
+
+![[Pasted image 20250509145415.png]]
+
+
+# 6° PASSO: CRIAR O INVENTARIO "HOSTS" E O ARQUIVO DE CONFIGURAÇÃO "ANSIBLE.CFG"
+
+```
+touch hosts
+touch ansible.cfg
+```
+
+## Configurar o inventario "hosts"
+
+```
+[shanghai]
+192.168.1.2
+192.168.1.3
+192.168.1.4
+
+[shanghai:vars]
+ansible_user=root
+ansible_password=P@ssw0rd
+ansible_become=yes
+ansible_become_method=sudo
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+
+[monitoring]
+192.168.1.4
+
+[monitoring:vars]
+ansible_user=root
+ansible_password=P@ssw0rd
+ansible_become=yes
+ansible_become_method=sudo
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+
+```
+
+## Cofigurar o arquivo de configuração "ansible.cfg"
+
+```
+[defaults]
+inventory =/data/ansible/hosts
+remote_user = remote-user
+host_key_checking= False
+retry_file_enabled= False
+timeout= 10
+become = Trust
+
+[ssh_connection]
+pipelinig = True
+
+```
