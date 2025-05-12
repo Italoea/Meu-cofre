@@ -213,7 +213,7 @@ mkdir -p /data/ansible
 ## Caso dê erro de unable to fetch some archives, maybe run apt-get update or try with --fix-missing
 
  ## Vá para nano /etc/apt/sources.list
-## Comente as linhas dos repositórios se for netinst e deixe só a do dlbd
+## Comente as linhas dos repositórios se for netinst e deixe só a do dlbd e adicone [trusted=yes]
 
 
 ![[Pasted image 20250509145415.png]]
@@ -268,3 +268,120 @@ become = Trust
 pipelinig = True
 
 ```
+
+## Configurar o inventário "hosts"
+
+```
+[shanghai]
+192.168.1.2 hostname=SHANGHAI-DC-1   # Primeiro servidor, hostname será SHANGHAI-DC-1
+192.168.1.3 hostname=SHANGHAI-DC-2   # Segundo servidor, hostname será SHANGHAI-DC-2
+192.168.1.4 hostname=SHANGHAI-DC-3   # Terceiro servidor, hostname será SHANGHAI-DC-3
+
+
+# Variáveis comuns a todos os hosts do grupo [shanghai]
+
+[shanghai:vars]
+ansible_user=root                           # Usuário usado para login SSH
+ansible_password=P@ssw0rd                   # Senha do usuário SSH
+ansible_become=yes                          # Habilita o uso de "sudo" para comandos privilegiados
+ansible_become_method=sudo                  # Método de elevação de privilégio (sudo)
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'  # Ignora confirmação de chave SSH na primeira conexão
+
+# Grupo MONITORING (servidores usados para monitoramento, neste exemplo só tem 1 IP)
+
+[monitoring]
+192.168.1.4      # Mesmo IP do SHANGHAI-DC-3 — pode representar um papel diferente
+
+# Variáveis comuns ao grupo [monitoring]
+
+[monitoring:vars]
+ansible_user=root
+ansible_password=P@ssw0rd
+ansible_become=yes
+ansible_become_method=sudo
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+
+```
+
+## Testar a sintaxe do playbook 
+
+```
+ansible-playbook -i hosts 1-hostname.yaml --syntax-check
+```
+
+#### Se tudo estiver correto, você verá:
+
+```
+playbook: 1-hostname.yaml
+```
+
+## Executar o playbook
+
+
+---
+
+## ✅ ETAPA 1 — Testar Conectividade com `ping`
+
+Antes de rodar o playbook, teste se o Ansible consegue se conectar aos servidores:
+
+```bash
+ansible -i hosts shanghai -m ping
+```
+
+Se tudo estiver certo, a saída será algo como:
+
+```
+192.168.1.2 | SUCCESS => {"changed": false, "ping": "pong"}
+192.168.1.3 | SUCCESS => {"changed": false, "ping": "pong"}
+192.168.1.4 | SUCCESS => {"changed": false, "ping": "pong"}
+```
+
+Se der erro, revise:
+
+- IPs
+    
+- Usuário/senha
+    
+- Conectividade SSH
+    
+
+---
+
+## ✅ ETAPA 2 — Executar o Playbook
+
+Execute o playbook com:
+
+```bash
+ansible-playbook -i hosts 1-hostname.yaml
+```
+
+Você verá algo como:
+
+```
+TASK [Definir o hostname conforme definido no inventário]
+ok: [192.168.1.2]
+ok: [192.168.1.3]
+ok: [192.168.1.4]
+```
+
+Se aparecer `"changed": true`, significa que o hostname foi alterado com sucesso.
+
+---
+
+## 🔍 Verificar se Funcionou
+
+Depois da execução, você pode verificar com:
+
+```bash
+ansible -i hosts shanghai -a "hostname"
+```
+
+A saída será:
+
+```
+192.168.1.2 | CHANGED | rc=0 >>
+SHANGHAI-DC-1
+...
+```
+
+---
