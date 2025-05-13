@@ -173,4 +173,3 @@ Down → Init → 2-Way → ExStart → Exchange → Loading → Full
 
 ---
 
-Se quiser, posso criar um **PDF com ilustrações** mostrando cada estado com exemplos de pacotes. Quer que eu prepare?

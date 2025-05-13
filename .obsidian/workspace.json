@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX ENVIRONMENT.md",
+                "file": "COMO CONFIGURAR UM SERVIDOR LDAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINUX ENVIRONMENT"
+              "title": "COMO CONFIGURAR UM SERVIDOR LDAP"
             }
           },
           {
@@ -1435,7 +1435,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
+                "file": "COMO CONFIGURAR UM SERVIDOR LDAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1445,7 +1445,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para COMO ESCREVER E EXECUTAR MANUAIS"
+              "title": "Links inversos para COMO CONFIGURAR UM SERVIDOR LDAP"
             }
           },
           {
@@ -1520,14 +1520,25 @@
   },
   "active": "c00a991ff13f0408",
   "lastOpenFiles": [
+    "Pasted image 20250513131703.png",
+    "Pasted image 20250513131638.png",
+    "Pasted image 20250513131616.png",
+    "Pasted image 20250513131508.png",
+    "Pasted image 20250513131438.png",
+    "OSPF.md",
+    "COMO CONFIGURAR UM SERVIDOR LDAP.md",
+    "SERVIDORES.md",
     "LINUX ENVIRONMENT.md",
+    "ANSIBLE/LOOPS.md",
+    "ANSIBLE/COMO CRIAR UM PLAYBOOK 2.md",
+    "ANSIBLE/COMO CRIAR UM PLAYBOOK 1.md",
+    "ANSIBLE/HANDLERS.md",
     "ANSIBLE/COMO ESCREVER E EXECUTAR MANUAIS.md",
     "ANSIBLE/COMO GERENCIAR ARQUIVOS DE CONFIGURAÇÃO ANSIBLE.md",
     "ANSIBLE/FUNCIONAMENTO.md",
     "ANSIBLE/O QUE É O ANSIBLE.md",
     "IMG/Pasted image 20250509145415.png",
     "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS.md",
-    "OSPF.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CRIAR ROTA ESTÁTICA NO ROTEADOR.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR NAT ESTÁTICO FOWARDING.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
@@ -1544,21 +1555,10 @@
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR NAT PAT EM ROUTER CISCO.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR PORT SECURITY ROUTER CISCO.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/ACL PADRÃO X ACL EXTENDIDA.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR ACL CISCO ROUTER.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR DHCP WINDOWS 2022.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO INSTALAR O AD DOMAIN CONTROLLER WINDOWS 2022.md",
     "IMG/Pasted image 20250414155617.png",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR DHCPV4 ROTADOR CISCO.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UMA ROTA DINÂMICA.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CRIAR UMA VLAN.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/ESTADOS DO STP.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
-    "IMG/Pasted image 20250407171159.png",
-    "IMG/Pasted image 20250401100109.png",
-    "IMG/Pasted image 20250402112053.png",
-    "IMG/Pasted image 20250401141432.png",
     "PROVAS",
     "Redes",
     "Reposit-rio-obisidian",
