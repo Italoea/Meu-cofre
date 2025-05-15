@@ -1,10 +1,10 @@
-|**Tecla/Comando**|**Ação**|
-|---|---|
-|**Barra de Espaço**|Move uma janela para frente|
-|**B**|Move uma janela para trás|
-|**Enter**|Move uma linha para frente|
-|**Q**|Sair do programa|
-|**H**|Exibir a tela de ajuda|
+| **Tecla/Comando**   | **Ação**                    |
+| ------------------- | --------------------------- |
+| **Barra de Espaço** | Move uma janela para frente |
+| **B**               | Move uma janela para trás   |
+| **Enter**           | Move uma linha para frente  |
+| **Q**               | Sair do programa            |
+| **H**               | Exibir a tela de ajuda      |
 
 ### Observações:
 
