@@ -33,9 +33,10 @@ R2(config)# interface e0/0
 
 R2(config-if)# ip nat inside
 
-R2(config-if)# exit**
+R2(config-if)# exit
 
 R2(config)# interface e0/1
 
 R2(config-if)# ip nat outside
 ```
+
