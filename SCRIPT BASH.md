@@ -2,41 +2,47 @@
 # SCRIPT PARA GERAR USUÁRIOS, GID E UID
 
 ```sh
-# Nome do arquivo LDIF de saída
-OUTPUT="visitantes.ldif"
+#!/bin/bash
 
-# DN base onde os usuários serão criados no LDAP
-BASE_DN="ou=Visitantes,dc=worldskillsbrasil,dc=com,dc=br"
+# Nome do arquivo de saída LDIF
+OUTPUT="colaboradores.ldif"
 
-# Remove o arquivo de saída caso já exista (para evitar duplicações)
+# Base DN (Distinguished Name) onde os usuários serão adicionados no LDAP
+BASE_DN="ou=Colaboradores,dc=worldskillsbrasil,dc=com,dc=br"
+
+# Limpa o conteúdo anterior do arquivo (se existir)
 > "$OUTPUT"
 
-# Loop de 1 a 100 para gerar 100 usuários
+# Loop para criar 100 usuários numerados de 001 a 100
 for i in $(seq 1 100); do
-    # Define o nome do usuário, com o número preenchido com zeros (ex: visit001, visit002...)
-    USER=Visit$(printf "%03d" $i)
 
-    # Define o UID (número único de identificação do usuário), começando em 23001 (ex: 23001, 23002...)
-    USER_ID=2$(printf "03d" $i)
+    # Define o nome do usuário no formato Colab001, Colab002, etc.
+    USER="Colab$(printf "%03d" $i)"
 
-    # Adiciona as entradas no arquivo LDIF
+    # Define o ID do usuário no formato 1001, 1002, etc.
+    USER_ID="1$(printf "%03d" $i)"
+
+    # Adiciona o conteúdo LDIF ao arquivo
     cat <<EOF >> "$OUTPUT"
 dn: uid=$USER,$BASE_DN
 objectClass: inetOrgPerson
 objectClass: posixAccount
-sn: $USER
 cn: $USER
+sn: $USER
 uid: $USER
+mail: $USER@worldskillsbrasil.com.br
 uidNumber: $USER_ID
 gidNumber: $USER_ID
 homeDirectory: /home/$USER
 loginShell: /bin/bash
 userPassword: P@ssword
 EOF
+
 done
 
-# Mensagem final confirmando a geração do arquivo
+# Exibe mensagem informando que o arquivo foi gerado
 echo "Arquivo LDIF gerado: $OUTPUT"
 
+
 ```
-![[Pasted image 20250515162738.png]]
+![[Pasted image 20250527135619.png]]
