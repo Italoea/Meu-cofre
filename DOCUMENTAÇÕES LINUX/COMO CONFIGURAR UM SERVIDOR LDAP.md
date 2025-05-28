@@ -36,7 +36,7 @@ sudo dpkg-reconfigure slapd
 
 ```sh
 nano ou_colaboradores
-dn: ou:Colaboradores,dc=worldskillsbrasil,dc=com,dc=br
+dn: ou=Colaboradores,dc=worldskillsbrasil,dc=com,dc=br
 objectClass: OrganizationalUnit
 ou: Colaboradores
 ```
@@ -45,7 +45,7 @@ ou: Colaboradores
 
 ```sh
 nano ou_visitantes
-dn: ou:Visitantes,dc=worldskillsbrasil,dc=com,dc=br
+dn: ou=Visitantes,dc=worldskillsbrasil,dc=com,dc=br
 objectClass: OrganizationalUnit
 ou: Visitantes
 ```
