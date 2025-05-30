@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKS IMPORTANTES.md",
+                "file": "VPN/VPN SITE TO SITE FASE 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINKS IMPORTANTES"
+              "title": "VPN SITE TO SITE FASE 2"
+            }
+          },
+          {
+            "id": "3cef391dad5aec0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CRIAR ROTA ESTÁTICA NO ROTEADOR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO CRIAR ROTA ESTÁTICA NO ROTEADOR"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,14 +192,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2587bfa84bcabc81",
+  "active": "3cef391dad5aec0a",
   "lastOpenFiles": [
+    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR NAT ESTÁTICO FOWARDING.md",
+    "VPN/VPN SITE TO SITE FASE 2.md",
+    "VPN/VPN SITE TO SITE FASE 1.md",
+    "COMANDOS LDAP.md",
+    "OSPF.md",
+    "LINUX ENVIRONMENT.md",
+    "SERVIDORES.md",
+    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CRIAR ROTA ESTÁTICA NO ROTEADOR.md",
+    "COMO CONFIGURAR SRV NO DNS COM LDAP.md",
+    "IMG/Pasted image 20250530100412.png",
+    "CONFIGURANDO FTP PARA PRISIONAR O USER NA HOME LINUX.md",
+    "Redes/ESTADOS QUE UMA PORTA EM UM SWITCH COM STP HABILITADO.md",
+    "Redes/LAN E WAN.md",
+    "Redes/Modelo OSI.md",
+    "LINKS IMPORTANTES.md",
     "CONTEUDOS QUE SEI.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR UM SERVIDOR LDAP.md",
-    "LINKS IMPORTANTES.md",
-    "SERVIDORES.md",
     "SCRIPT BASH.md",
-    "LINUX ENVIRONMENT.md",
     "IMG/Pasted image 20250515100007.png",
     "IMG/Pasted image 20250515100136.png",
     "IMG/Pasted image 20250515102702.png",
@@ -194,27 +221,15 @@
     "IMG/Pasted image 20250521142214.png",
     "IMG/Pasted image 20250521153812.png",
     "IMG/Pasted image 20250522104834.png",
-    "IMG/Pasted image 20250522105725.png",
     "CLIENTE ACESSANDO O SERVER.md",
     "COMO CONFIGURAR UMA ACL PADRÃO.md",
     "ACL ENUMERADA E NOMEADAS.md",
-    "OSPF.md",
-    "CONFIGURANDO FTP PARA PRISIONAR O USER NA HOME LINUX.md",
     "PERMISSÕES LINUX.md",
-    "COMANDOS LDAP.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGRAR IP DHCP E ESTÁTICO.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DHCP LINUX.md",
     "ACL CISCO.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR DNS BIND9.md",
     "DOCUMENTAÇÕES LINUX/COMO CONFIGURAR SERVIDOR WEB APACHE2.md",
-    "DOCUMENTAÇÕES LINUX/COMO USAR IPCALC.md",
-    "DOCUMENTAÇÕES LINUX/CONFIGURAÇÕES BIND9.md",
-    "DOCUMENTAÇÕES LINUX/COMO RECUPERAR A SENHA DO ROOT.md",
-    "DOCUMENTAÇÕES LINUX/COMO CRIAR UM SERVIDOR SAMBA.md",
-    "DOCUMENTAÇÕES LINUX/NETWORK MANAGER LINUX.md",
-    "VPN/VPN REMOTE ACCESS.md",
-    "VPN/VPN SITE TO SITE.md",
-    "VPN/VPN SITE TO SITE FASE 1.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA",
     "VPN",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
