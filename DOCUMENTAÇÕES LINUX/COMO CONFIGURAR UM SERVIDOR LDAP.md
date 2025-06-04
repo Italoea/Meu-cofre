@@ -63,7 +63,7 @@ ldapadd -x -D "cn=admin,dc=worldskillsbrasil,dc=com,dc=br" -W -f colaboradores.l
 
 ```sh
 sudo apt update
-sudo apt install libnss-ldap libpam-ldap ldap-utils nslcd -y
+sudo apt install libnss-ldapd libpam-ldapd ldap-utils  -y
 ```
 
 Durante a instalação, será solicitada a configuração inicial:
@@ -72,11 +72,6 @@ Durante a instalação, será solicitada a configuração inicial:
     
 - **Distinguished Name base** (Base DN): algo como `dc=seudominio,dc=com,dc=br`
     
-- **LDAP versão**: 3
-    
-- **Permitir login de root local**: Sim
-    
-- **Configurar libpam-ldap para atualizar senhas**: Sim
 
 Para a maioria das implementações LDAP, ative pelo menos:
 
@@ -86,14 +81,16 @@ Para a maioria das implementações LDAP, ative pelo menos:
     
 - `shadow` (senhas criptografadas)
 
-#### `/etc/nslcd.conf`
+### PARA CRIAR O DIRETÓRIO HOME DO CLIENTE VÁ EM:
 
-Verifique se o conteúdo está assim (ajuste conforme sua rede):
+```
+/etc/pam.d/common-session
 
-	uri ldap://192.168.0.10/
-	base dc=seudominio,dc=com,dc=br
-	binddn cn=admin,dc=seudominio,dc=com,dc=br
-	bindpw suasenha
+#Adicione:
+
+session optional pam_mkhomedir skel=/etc/skel umask=077
+
+```
 
 ### **Testar a conexão LDAP**
 
@@ -110,3 +107,4 @@ getent passwd usuario_ldap
 ```sh
 su - usuario_ldap
 ```
+
