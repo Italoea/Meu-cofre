@@ -90,3 +90,5 @@ systemctl enable --now wg-quick@wg0.service
 wg
 ```
 
+
+ip route del 10.100.0.0/24 via 193.193.18.2

@@ -40,4 +40,3 @@ A **VPN Site-to-Site** conecta de forma segura duas ou mais redes físicas difer
 
 ---
 
-Se desejar, posso gerar os dois (Site-to-Site e Remote Access) juntos em um PDF bem organizado. Quer? 😊
