@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
+                "file": "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR SRV NO DNS COM LDAP"
+              "title": "COMO CONFIGURAR DNS SECUNDARIO BIND9"
             }
           }
         ],
@@ -194,6 +194,12 @@
   },
   "active": "7de13ecfff6a33f8",
   "lastOpenFiles": [
+    "IMG/Pasted image 20250701090452.png",
+    "IMG/Pasted image 20250701090248.png",
+    "IMG/Pasted image 20250701090053.png",
+    "IMG/Pasted image 20250701085843.png",
+    "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
+    "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
     "Sem título",
     "BIND9/COMO CONFIGURAR DNS BIND9.md",
     "BIND9/ZONA REVERSA BIND9.md",
@@ -212,7 +218,7 @@
     "CLIENTE ACESSANDO O SERVER SSH.md",
     "CONFIGURAÇÃO BGP.md",
     "LINKS IMPORTANTES.md",
-    "Pasted image 20250630174053.png",
+    "IMG/Pasted image 20250630174053.png",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR NAT ESTÁTICO.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR NAT DINÂMICO.md",
@@ -222,23 +228,17 @@
     "DOCUMENTAÇÕES ATIVOS DE REDES/FHRP.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMANDOS ROTEADOR.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CRIAR ROTA ESTÁTICA NO ROTEADOR.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/ROTAS ESTÁTICAS E SEUS TIPOS.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UMA ROTA DINÂMICA.md",
-    "Pasted image 20250617154514.png",
+    "IMG/Pasted image 20250617154514.png",
     "IMG/Pasted image 20250611163520.png",
     "IMG/Pasted image 20250611163350.png",
     "IMG/Pasted image 20250611163302.png",
     "IMG/Pasted image 20250611163152.png",
     "PROVAS/Pasted image 20250611162849.png",
-    "IMG/Pasted image 20250611162759.png",
-    "IMG/Pasted image 20250605151955.png",
-    "IMG/Pasted image 20250605151817.png",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA",
     "VPN",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
     "DOCUMENTAÇÕES WINDOWS",
     "DOCUMENTAÇÕES LINUX",
-    "PROVAS",
-    "Redes"
+    "PROVAS"
   ]
 }
