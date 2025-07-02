@@ -14,5 +14,13 @@ SAIR CRL+ALT
 CRL+V PARA COLAR
 
 https://blog.remontti.com.br/1397
+COMO CONFIGURAR SPLIT-DNS
+
 
 https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-pt
+
+
+
+
+https://askubuntu.com/questions/1537619/bind-and-isc-dhcp-dynamic-update
+CONFIGURAÇÃO DE DDNS 
