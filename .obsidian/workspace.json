@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
+                "file": "BIND9/COMO CONFIGURAR SPLIT DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR DNS SECUNDARIO BIND9"
+              "title": "COMO CONFIGURAR SPLIT DNS"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LDAP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,15 +194,22 @@
   },
   "active": "7de13ecfff6a33f8",
   "lastOpenFiles": [
+    "Pasted image 20250702110724.png",
+    "Pasted image 20250702110248.png",
+    "Pasted image 20250702110111.png",
+    "Pasted image 20250702110015.png",
+    "Pasted image 20250702105721.png",
+    "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO FAZER UM ROTEAMENTO ENTRE VLANS.md",
+    "BIND9/COMO CONFIGURAR SPLIT DNS.md",
+    "BIND9/COMO CONFIGURAR DNS BIND9.md",
+    "BIND9/ZONA REVERSA BIND9.md",
+    "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
     "IMG/Pasted image 20250701090452.png",
     "IMG/Pasted image 20250701090248.png",
     "IMG/Pasted image 20250701090053.png",
     "IMG/Pasted image 20250701085843.png",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
-    "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
     "Sem título",
-    "BIND9/COMO CONFIGURAR DNS BIND9.md",
-    "BIND9/ZONA REVERSA BIND9.md",
     "BIND9/CONFIGURAÇÕES BIND9.md",
     "FTP/CONFIGURANDO FTP PARA PRISIONAR O USER NA HOME LINUX.md",
     "LDAP",
@@ -222,18 +229,11 @@
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR NAT ESTÁTICO.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR NAT DINÂMICO.md",
-    "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO FAZER UM ROTEAMENTO ENTRE VLANS.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR PAT.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR ETHERCHANNEL.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/FHRP.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMANDOS ROTEADOR.md",
-    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CRIAR ROTA ESTÁTICA NO ROTEADOR.md",
     "IMG/Pasted image 20250617154514.png",
-    "IMG/Pasted image 20250611163520.png",
-    "IMG/Pasted image 20250611163350.png",
-    "IMG/Pasted image 20250611163302.png",
-    "IMG/Pasted image 20250611163152.png",
-    "PROVAS/Pasted image 20250611162849.png",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA",
     "VPN",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
