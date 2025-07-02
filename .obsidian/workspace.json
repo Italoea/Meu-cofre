@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO CONFIGURAR DDNS ISC-DHCP E BIND9.md",
+                "file": "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR DDNS ISC-DHCP E BIND9"
+              "title": "COMO CONFIGURAR DNS SECUNDARIO BIND9"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "9bcfac8faf0b7983",
   "lastOpenFiles": [
-    "LINKS IMPORTANTES.md",
     "COMO CONFIGURAR DDNS ISC-DHCP E BIND9.md",
+    "LINKS IMPORTANTES.md",
     "IMG/Pasted image 20250702164859.png",
     "IMG/Pasted image 20250702164525.png",
     "IMG/Pasted image 20250702164506.png",
