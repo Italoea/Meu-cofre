@@ -33,9 +33,7 @@ ddns-update-style interim;
 ddns-updates on;
 ddns-domainname "gelosa.eu";
 ddns-rev-domainname "0.168.192.in-addr.arpa.";
-update-optimization off;
-default-lease-time 600;
-max-lease-time 7200;
+
 
 subnet 192.168.0.0 netmask 255.255.255.0 {
         range 192.168.0.100 192.168.0.199;
@@ -73,4 +71,45 @@ zone "0.168.192.in-addr.arpa" {
     allow-update { 192.168.0.31; };
 };
 
+```
+
+
+## GORA IREI ADICIONAR A CHAVE TSIG NESSA CONFIGURAÇÃO:
+
+### NO SERVIDOR QUE HOSPEDA O BIND9 GERE A CHAVE TSIG COM:
+
+
+```
+tskig-keygen (nome da chave ex) bind-key >> bind.txt
+
+Irá gerar:
+
+key "bind-key" {
+algorithm hmac-sha256;
+secret "SUA_CHAVE_BASE64";
+```
+
+### APÓS ISSO ADICIONE A CHAVE NO TOPO DO NAMED.CONF.DEFAULT.ZONES
+
+#### E NA ZONA DIRETA E REVERSA ADICIONE:
+
+```
+allow-update { key "bind-key"; }; <--- Nome da chave
+```
+
+### APÓS ISSO FAÇA UM SCP DA CHAVE QUE ESTÁ NO SERVER DNS PARA O SERVIDOR DHCP
+
+```
+scp bind.txt root@ipdele:/etc/dhcp <-- Scp do dns para o dhcp
+```
+
+### AGORA COLE A CHAVE NO DHCPD.CONF E ADICIONE NAS ZONAS
+
+```
+zone worldskills.org. {
+	primary 192.168.10.0 <-- ip do server DNS primario
+	key bind-key; <-- Nome da cheve que foi criada e adicionada no arquivo
+}
+
+#Tanto na zona primaria quanto na zona secundaria
 ```
