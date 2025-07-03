@@ -24,3 +24,7 @@ https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-priv
 
 https://askubuntu.com/questions/1537619/bind-and-isc-dhcp-dynamic-update
 CONFIGURAÇÃO DE DDNS 
+
+
+
+https://pastebin.com/r5SH945q
