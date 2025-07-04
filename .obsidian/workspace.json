@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CRL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,14 +197,18 @@
   },
   "active": "9bcfac8faf0b7983",
   "lastOpenFiles": [
-    "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR PAT.md",
-    "COMO CONFIGURAR DDNS ISC-DHCP E BIND9.md",
+    "VPN/VPN SITE TO SITE FASE 2.md",
     "Sem título.md",
+    "VPN/VPN SITE TO SITE FASE 1.md",
+    "VPN/VPN REMOTE ACCESS.md",
+    "VPN/VPN SITE TO SITE.md",
+    "COMO CONFIGURAR DDNS ISC-DHCP E BIND9.md",
+    "BIND9/COMO CONFIGURAR SPLIT DNS.md",
+    "LINKS IMPORTANTES.md",
+    "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR PAT.md",
     "VPN/VPN REMOTE ACCESS WIREGUARD.md",
     "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
     "CLIENTE ACESSANDO O SERVER SSH.md",
-    "BIND9/COMO CONFIGURAR SPLIT DNS.md",
-    "LINKS IMPORTANTES.md",
     "IMG/Pasted image 20250702164859.png",
     "IMG/Pasted image 20250702164525.png",
     "IMG/Pasted image 20250702164506.png",
@@ -232,10 +237,6 @@
     "LINUX/COMANDOS BASH SHELL.md",
     "LINUX/OBSERVAÇÕES.md",
     "LINUX/ASPAS.md",
-    "LINUX/REGEX.md",
-    "LINUX/MOVIMENTAÇÃO VI.md",
-    "PROVAS/LINUX ENVIRONMENT.md",
-    "CONFIGURAÇÃO BGP.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA",
     "VPN",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
