@@ -28,3 +28,13 @@ CONFIGURAÇÃO DE DDNS
 
 
 https://pastebin.com/r5SH945q
+
+
+
+
+https://labcisco.blogspot.com/2015/11/failover-de-servidores-dhcp-redundantes.html SITE COM DIVERSAS SOLUÇÕES CISCO
+
+
+
+https://askubuntu.com/questions/330148/how-do-i-do-a-complete-bind9-dns-server-configuration-with-a-hostname
+SITE COM DOCUMENTAÇÃO DE ZONA BIND9
