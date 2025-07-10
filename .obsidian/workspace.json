@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SRV",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bcfac8faf0b7983",
+  "active": "7de13ecfff6a33f8",
   "lastOpenFiles": [
     "CONFIGURAÇÃO BGP.md",
     "CONTEUDOS QUE SEI.md",

@@ -30,3 +30,9 @@ dig -t SRV _ldap._tcp.meudominio
 
 # -t para especificar o tipo no meu caso é SRV 
 ```
+
+
+
+
+
+
