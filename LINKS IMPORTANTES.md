@@ -38,3 +38,8 @@ https://labcisco.blogspot.com/2015/11/failover-de-servidores-dhcp-redundantes.ht
 
 https://askubuntu.com/questions/330148/how-do-i-do-a-complete-bind9-dns-server-configuration-with-a-hostname
 SITE COM DOCUMENTAÇÃO DE ZONA BIND9
+
+
+
+https://community.spiceworks.com/c/data-storage-backup-recovery/10
+FORUM 
