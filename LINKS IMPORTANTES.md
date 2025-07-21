@@ -43,3 +43,9 @@ SITE COM DOCUMENTAÇÃO DE ZONA BIND9
 
 https://community.spiceworks.com/c/data-storage-backup-recovery/10
 FORUM 
+
+
+
+
+https://std.rocks/windows_dfs_installing.html
+COMO CONFIGURAR DFS E REPLICATION
