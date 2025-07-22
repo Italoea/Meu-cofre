@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKS IMPORTANTES.md",
+                "file": "COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINKS IMPORTANTES"
+              "title": "COMO DEIXAR UM USUÁRIO OCULTO DO AD"
             }
           }
         ],
@@ -143,8 +143,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINKS IMPORTANTES.md",
+                "file": "COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de LINKS IMPORTANTES"
+              "title": "Sumário de COMO DEIXAR UM USUÁRIO OCULTO DO AD"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "9bcfac8faf0b7983",
   "lastOpenFiles": [
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
     "LINKS IMPORTANTES.md",
+    "COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
     "CONTEUDOS QUE SEI.md",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
     "CONFIGURAÇÃO BGP.md",
@@ -235,7 +236,6 @@
     "LDAP",
     "FTP",
     "BIND9",
-    "BIND9.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA",
     "VPN",
     "DOCUMENTAÇÕES ATIVOS DE REDES",
