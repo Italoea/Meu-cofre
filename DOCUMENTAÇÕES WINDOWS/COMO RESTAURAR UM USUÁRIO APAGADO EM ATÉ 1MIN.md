@@ -1,0 +1,81 @@
+
+
+
+## VÁ EM:
+
+![[Pasted image 20250723105139.png]]
+
+## CLIQUE O O BOTÃO DIREITO NO SEU DOMINIO E ATIVE:
+
+![[Pasted image 20250723105255.png]]
+
+## APÓS ISSO DÊ UM REFRESH NA PARTE SUPERIOR DIRETA.
+
+### AGORA FORCE A REPLICAÇÃO:
+
+```
+Repadmin /syncall /AdeP
+```
+##### DÊ ESSE COMANDO NO DOMINO PAI!!
+
+
+## APÓS ISSO CRIE O SCRIPT EM POWERSHELL QUE IRÁ RESTAURAR OS USUARIOS APAGADOS:
+
+```
+Import-Module ActiveDirectory
+"worldskills.org","euro.worldskills.org" | ForEach-Object {
+  Get-ADObject -Filter { isDeleted -eq $true -and objectClass -eq 'user' } -IncludeDeletedObjects -Server $_ | Restore-ADObject -Server $_ -Confirm:$false
+}
+
+```
+
+## ESSE SCRIPT RESTAURA OS USUÁRIOS DO DOMINO PAI E DO DOMINIO FILHO.
+
+
+### AGORA CRIE UM SCRIPT .BAT PARA EXECUTAR O SCRIPT POWERSHELL
+
+```
+powershell.exe ExecutionPolicy Bypass -File "caminho do script powershel"
+
+Ex:
+powershell.exe ExecutionPolicy Bypass -File "C:\script.ps1"
+```
+
+## APÓS TESTAR OS DOIS SCRIPTS E VALIDAR QUE ESTÃO FUNCIONANDO, VAMOS PARA A PARTE DO TASK SCHEDULER
+
+
+# ABRA O TASK SCHEDULER
+
+
+# CREATE TASK
+![[Pasted image 20250723110502.png]]
+
+##### A PRIMERIA OPÇÃO É PRO SCRIPT RODA MESMO QUE ESSA MÁQUINA NÃO ESTEJA LOGADA
+##### A SEGUNDA OPÇÃO É PARA EXECUTAR COM PRIVILEGIO ALTO
+##### E A TERCEIRA É PRO SCRIPT RODAR EM SEGUNDO PLANO
+
+
+# APÓS ISSO VÁ PARA ABA "Triggers" E CLIQUE EM "New"
+
+
+
+![[Pasted image 20250723110916.png]]
+
+
+##### A PRIMEIRA OPÇÃO SE REFERE AO SCRIPT  EXECUTAR DIARIAMENTE
+
+##### A SEGUNDA OPÇÃO SE REFERE AO SCRIPT EXECUTAR DE 1 EM 1 MINUTO
+###### OBS: VOCÊ DEVERÁ ESREVER "1 minute " POIS NÃO TEM ESSA OPÇÃO
+
+##### E ATERCEIRA OPÇÃO É PARA DEIXAR ATIVADO
+
+
+# AGORA VÁ PARA "Actions" E CLIQUE EM "New"
+
+![[Pasted image 20250723111413.png]]
+
+##### A PRIMEIRA OPÇÃO É QUAL A AÇÃO QUE VAI ACONTECER, NO CASO SERÁ STARTAR UM PROGRAMA
+##### A SEGUNDA OPÇÃO É PASSSAR O AONDE ESTÁ O SCRIPT .BAT QUE EXECUTA O PS1
+
+
+# APÓS ISSO SUA CONFIGURAÇÃO ESTARÁ FINALIZADA!

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
+                "file": "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO DEIXAR UM USUÁRIO OCULTO DO AD"
+              "title": "COMO CONFIGURAR SITE AND TRUSTS"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 618.5
   },
   "right": {
     "id": "4145d820b5f14489",
@@ -196,8 +196,19 @@
   },
   "active": "9bcfac8faf0b7983",
   "lastOpenFiles": [
+    "DOCUMENTAÇÕES WINDOWS/COMO ADICONAR O MODO FOWARDING NO WINDOWS SERVER.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO INSTALAR O AD DOMAIN CONTROLLER WINDOWS 2022.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CRIAR 100 USUÁRIOS EM UM DOMINO.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CRIAR UMA PASTA APÓS EXECUTAR O POWERSHELL.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO RESTAURAR UM USUÁRIO APAGADO EM ATÉ 1MIN.md",
+    "IMG/Pasted image 20250723111413.png",
+    "IMG/Pasted image 20250723110916.png",
+    "IMG/Pasted image 20250723110843.png",
+    "IMG/Pasted image 20250723110502.png",
+    "IMG/Pasted image 20250723105255.png",
+    "IMG/Pasted image 20250723105139.png",
+    "DOCUMENTAÇÕES WINDOWS/COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
     "LINKS IMPORTANTES.md",
-    "COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
     "CONTEUDOS QUE SEI.md",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
@@ -217,22 +228,11 @@
     "VPN/VPN REMOTE ACCESS.md",
     "VPN/VPN SITE TO SITE.md",
     "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO CONFIGURAR PAT.md",
-    "VPN/VPN REMOTE ACCESS WIREGUARD.md",
     "IMG/Pasted image 20250702164859.png",
     "IMG/Pasted image 20250702164525.png",
     "IMG/Pasted image 20250702164506.png",
     "IMG/Pasted image 20250702164338.png",
-    "PERMISSÕES LINUX.md",
-    "OSPF.md",
-    "IMG/Captura de tela 2025-07-02 105717 1.png",
-    "IMG/Captura de tela 2025-07-02 105717.png",
-    "IMG/Pasted image 20250702110724.png",
-    "IMG/Pasted image 20250702110248.png",
-    "IMG/Pasted image 20250702110111.png",
-    "IMG/Pasted image 20250702110015.png",
-    "DOCUMENTAÇÃO ATIVOS DE REDES NOVA/COMO FAZER UM ROTEAMENTO ENTRE VLANS.md",
     "Sem título",
-    "FTP/CONFIGURANDO FTP PARA PRISIONAR O USER NA HOME LINUX.md",
     "LDAP",
     "FTP",
     "BIND9",
