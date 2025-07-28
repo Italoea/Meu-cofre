@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO CONFIGURAR ISCSI INITIATOR.md",
+                "file": "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR WIN CORE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR ISCSI INITIATOR"
+              "title": "COMO CONFIGURAR ISCSI INITIATOR WIN CORE"
             }
           }
         ],
@@ -194,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bcfac8faf0b7983",
+  "active": "7de13ecfff6a33f8",
   "lastOpenFiles": [
-    "COMO CONFIGURAR O ISCSI TARGET.md",
-    "COMO CONFIGURAR ISCSI INITIATOR.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR WIN CORE.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CRIAR UMA PASTA APÓS EXECUTAR O POWERSHELL.md",
+    "LINKS IMPORTANTES.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR O ISCSI TARGET.md",
     "IMG/Pasted image 20250725131044.png",
     "IMG/Pasted image 20250725130935.png",
     "IMG/Pasted image 20250725130841.png",
@@ -214,9 +217,7 @@
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
     "DOCUMENTAÇÕES WINDOWS/COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
     "DOCUMENTAÇÕES WINDOWS/COMO RESTAURAR UM USUÁRIO APAGADO EM ATÉ 1MIN.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CRIAR UMA PASTA APÓS EXECUTAR O POWERSHELL.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CRIAR 100 USUÁRIOS EM UM DOMINO.md",
-    "LINKS IMPORTANTES.md",
     "CONTEUDOS QUE SEI.md",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
     "CONFIGURAÇÃO BGP.md",
