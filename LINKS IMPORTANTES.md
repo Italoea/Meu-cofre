@@ -49,3 +49,19 @@ FORUM
 
 https://std.rocks/windows_dfs_installing.html
 COMO CONFIGURAR DFS E REPLICATION
+
+
+
+https://blog.matrixpost.net/set-up-windows-dns-dynamic-updates/
+COMO CONFIGURAR O DDNS NO WINDOWS SERVER
+
+
+https://blog.matrixpost.net/dfs-domain-based-namespace-folders-are-missing-after-replacing-domain-controllers/
+COMO CONFIGURAR DFS NAMESPACE
+
+
+https://woshub.com/dns-conditional-forwarding-policy-windows-server/
+COMO CONFIGURAR DNS FORWARDER
+
+
+
