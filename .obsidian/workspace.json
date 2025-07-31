@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPN/VPN REMOTE ACCESS WIREGUARD.md",
+                "file": "VPN SITE TO SITE WIREGUARD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN REMOTE ACCESS WIREGUARD"
+              "title": "VPN SITE TO SITE WIREGUARD"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UMA ROTA DINÂMICA.md",
+                "file": "CLIENTE ACESSANDO O SERVER SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFIGURAR UMA ROTA DINÂMICA"
+              "title": "CLIENTE ACESSANDO O SERVER SSH"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OSPF",
+                "query": "WIRE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,9 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bcfac8faf0b7983",
+  "active": "be8d2ce6e5286f8d",
   "lastOpenFiles": [
+    "CLIENTE ACESSANDO O SERVER SSH.md",
+    "VPN SITE TO SITE WIREGUARD.md",
+    "VPN/VPN REMOTE ACCESS WIREGUARD.md",
     "LINKS IMPORTANTES.md",
+    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UMA ROTA DINÂMICA.md",
     "COMO CONFIGURAR NLB.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR WIN CORE.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR.md",
@@ -229,10 +232,6 @@
     "BIND9/ZONA REVERSA BIND9.md",
     "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
     "BIND9/COMO CONFIGURAR SPLIT DNS.md",
-    "SCRIPT BASH.md",
-    "CLIENTE ACESSANDO O SERVER SSH.md",
-    "O QUE EU NÃO SEI NO PROJETO TESTE LINUX.md",
-    "COMO CONFIGURAR EIGRP E SUMARIZAÇÃO.md",
     "Sem título",
     "LDAP",
     "FTP",
