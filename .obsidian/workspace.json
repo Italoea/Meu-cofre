@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO INSTLAR ICINGA2.md",
+                "file": "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO INSTLAR ICINGA2"
+              "title": "COMO CONFIGURAR ISCSI INITIATOR"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,6 +195,14 @@
   },
   "active": "be8d2ce6e5286f8d",
   "lastOpenFiles": [
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR O ISCSI TARGET.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR WIN CORE.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
+    "COMO CONFIGURAR NLB.md",
+    "Sem título.md",
+    "LINKS IMPORTANTES.md",
+    "COMO INSTLAR ICINGA2.md",
     "Pasted image 20250805091809.png",
     "IMG/Pasted image 20250805091443.png",
     "IMG/Pasted image 20250805091040.png",
@@ -205,22 +213,14 @@
     "IMG/Pasted image 20250805090255.png",
     "IMG/Pasted image 20250805090220.png",
     "IMG/Pasted image 20250805090145.png",
-    "IMG/Pasted image 20250805085738.png",
     "VPN SITE TO SITE WIREGUARD.md",
-    "COMO INSTLAR ICINGA2.md",
     "CLIENTE ACESSANDO O SERVER SSH.md",
     "VPN/VPN REMOTE ACCESS WIREGUARD.md",
-    "LINKS IMPORTANTES.md",
     "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UMA ROTA DINÂMICA.md",
-    "COMO CONFIGURAR NLB.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR WIN CORE.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CRIAR UMA PASTA APÓS EXECUTAR O POWERSHELL.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR O ISCSI TARGET.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR DHCP WINDOWS 2022.md",
     "DOCUMENTAÇÕES WINDOWS/COMO INSTALAR O AD DOMAIN CONTROLLER WINDOWS 2022.md",
     "DOCUMENTAÇÕES WINDOWS/COMO ADICONAR O MODO FOWARDING NO WINDOWS SERVER.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
     "DOCUMENTAÇÕES WINDOWS/COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
     "DOCUMENTAÇÕES WINDOWS/COMO RESTAURAR UM USUÁRIO APAGADO EM ATÉ 1MIN.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CRIAR 100 USUÁRIOS EM UM DOMINO.md",
