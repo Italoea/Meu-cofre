@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROVA B.md",
+                "file": "CONFIGURAÇÃO BGP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROVA B"
+              "title": "CONFIGURAÇÃO BGP"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BGP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,11 @@
   },
   "active": "be8d2ce6e5286f8d",
   "lastOpenFiles": [
-    "COMO CONFIGURAR KEEPALIVED.md",
+    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR ETHERCHANNEL.md",
+    "DOCUMENTAÇÕES ATIVOS DE REDES/COMO CONFIGURAR UM DOMINIO VTP SWITCH L2.md",
+    "DOCUMENTAÇÕES WINDOWS/COMO CRIAR UMA PASTA APÓS EXECUTAR O POWERSHELL.md",
     "PROVA B.md",
+    "COMO CONFIGURAR KEEPALIVED.md",
     "DOCUMENTAÇÕES WINDOWS/COMO RESTAURAR UM USUÁRIO APAGADO EM ATÉ 1MIN.md",
     "BIND9/ZONA REVERSA BIND9.md",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
@@ -207,7 +211,6 @@
     "VPN/VPN REMOTE ACCESS.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR O ISCSI TARGET.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CRIAR 100 USUÁRIOS EM UM DOMINO.md",
-    "DOCUMENTAÇÕES WINDOWS/COMO CRIAR UMA PASTA APÓS EXECUTAR O POWERSHELL.md",
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR SITE AND TRUSTS.md",
     "DOCUMENTAÇÕES WINDOWS/COMO ADICONAR O MODO FOWARDING NO WINDOWS SERVER.md",
     "DOCUMENTAÇÕES WINDOWS/COMO DEIXAR UM USUÁRIO OCULTO DO AD.md",
@@ -219,7 +222,6 @@
     "DOCUMENTAÇÕES WINDOWS/COMO CONFIGURAR ISCSI INITIATOR WIN CORE.md",
     "COMO CONFIGURAR NLB.md",
     "LINKS IMPORTANTES.md",
-    "COMO INSTLAR ICINGA2.md",
     "Pasted image 20250805091809.png",
     "IMG/Pasted image 20250805091443.png",
     "IMG/Pasted image 20250805091040.png",
@@ -230,7 +232,6 @@
     "IMG/Pasted image 20250805090255.png",
     "IMG/Pasted image 20250805090220.png",
     "IMG/Pasted image 20250805090145.png",
-    "CLIENTE ACESSANDO O SERVER SSH.md",
     "Sem título",
     "LDAP",
     "FTP",
