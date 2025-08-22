@@ -54,7 +54,7 @@ Add-VpnS2SInterface `
 
   -Name "VPN‑To‑BranchA" `
 
-  -Destination 203.0.113.1 ` # IP do outro servidor
+  -Destination 1.1.1.2 ` # IP do outro servidor
 
   -Protocol IKEv2 `
 
