@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO MUDAR A SENHA DO ESXI COM SSH.md",
+                "file": "COMO CONFGIRAR DMVPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO MUDAR A SENHA DO ESXI COM SSH"
+              "title": "COMO CONFGIRAR DMVPN"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EIGR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,10 +211,18 @@
   },
   "active": "9e3d3917f8898caa",
   "lastOpenFiles": [
-    "IMG/Pasted image 20250805091809.png",
-    "COMO MUDAR A SENHA DO ESXI COM SSH.md",
-    "PROVA B.md",
+    "COMO INSTLAR ICINGA2.md",
+    "COMO CONFGIRAR DMVPN.md",
+    "COMO OCNFIGURAR DHCP SECUNDARIO.md",
+    "COMO CONFIGURAR EIGRP E SUMARIZAÇÃO.md",
+    "LINKS IMPORTANTES.md",
+    "VPN/VPN SITE TO SITE FASE 1.md",
+    "VPN/VPN SITE TO SITE FASE 2.md",
+    "CONFIGURAÇÃO BGP.md",
     "DOCUMENTAÇÕES WINDOWS/COMO RESTAURAR UM USUÁRIO APAGADO EM ATÉ 1MIN.md",
+    "COMO MUDAR A SENHA DO ESXI COM SSH.md",
+    "IMG/Pasted image 20250805091809.png",
+    "PROVA B.md",
     "BIND9/COMO CONFIGURAR DDNS ISC-DHCP E BIND9.md",
     "BIND9/COMO CONFIGURAR SPLIT DNS.md",
     "BIND9/COMO CONFIGURAR DNS SECUNDARIO BIND9.md",
@@ -227,16 +235,9 @@
     "VPN SITE TO SITE WIREGUARD.md",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
     "COMO CONFIGURAR KEEPALIVED.md",
-    "COMO INSTLAR ICINGA2.md",
     "COMO CONFIGURAR NLB.md",
-    "COMO CONFIGURAR EIGRP E SUMARIZAÇÃO.md",
-    "CONFIGURAÇÃO BGP.md",
     "O QUE EU NÃO SEI NO PROJETO TESTE LINUX.md",
     "CONTEUDOS QUE SEI.md",
-    "LINKS IMPORTANTES.md",
-    "PERMISSÕES LINUX.md",
-    "ACL ENUMERADA E NOMEADAS.md",
-    "COMO CONFIGURAR UMA ACL PADRÃO.md",
     "IMG/Pasted image 20250805091443.png",
     "IMG/Pasted image 20250805091040.png",
     "IMG/Pasted image 20250805090942.png",
