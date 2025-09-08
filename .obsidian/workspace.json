@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMO CONFGIRAR DMVPN.md",
+                "file": "ANSIBLE/TROUBLEHOOTING ANSIBLE/SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMO CONFGIRAR DMVPN"
+              "title": "SOLUÇÃO DE PROBLEMAS DE FALHAS EM HOSTS"
+            }
+          },
+          {
+            "id": "c8dd49e434ea1f56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.12"
             }
           },
           {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,15 +221,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e3d3917f8898caa",
+  "active": "c8dd49e434ea1f56",
   "lastOpenFiles": [
+    "ANSIBLE/HANDLERS.md",
+    "VPN/VPN REMOTE ACCESS.md",
+    "SCRIPT BASH.md",
+    "VPN/COMO CONFGIRAR DMVPN.md",
+    "VPN/VPN REMOTE ACCESS WIREGUARD.md",
+    "VPN/VPN SITE TO SITE FASE 2.md",
+    "VPN/VPN SITE TO SITE FASE 1.md",
     "COMO INSTLAR ICINGA2.md",
-    "COMO CONFGIRAR DMVPN.md",
     "COMO OCNFIGURAR DHCP SECUNDARIO.md",
     "COMO CONFIGURAR EIGRP E SUMARIZAÇÃO.md",
     "LINKS IMPORTANTES.md",
-    "VPN/VPN SITE TO SITE FASE 1.md",
-    "VPN/VPN SITE TO SITE FASE 2.md",
     "CONFIGURAÇÃO BGP.md",
     "DOCUMENTAÇÕES WINDOWS/COMO RESTAURAR UM USUÁRIO APAGADO EM ATÉ 1MIN.md",
     "COMO MUDAR A SENHA DO ESXI COM SSH.md",
@@ -231,13 +247,9 @@
     "BIND9/COMO CONFIGURAR DNS BIND9.md",
     "CLIENTE ACESSANDO O SERVER SSH.md",
     "LDAP/COMANDOS LDAP.md",
-    "VPN/VPN REMOTE ACCESS WIREGUARD.md",
     "VPN SITE TO SITE WIREGUARD.md",
     "LDAP/COMO CONFIGURAR SRV NO DNS COM LDAP.md",
     "COMO CONFIGURAR KEEPALIVED.md",
-    "COMO CONFIGURAR NLB.md",
-    "O QUE EU NÃO SEI NO PROJETO TESTE LINUX.md",
-    "CONTEUDOS QUE SEI.md",
     "IMG/Pasted image 20250805091443.png",
     "IMG/Pasted image 20250805091040.png",
     "IMG/Pasted image 20250805090942.png",

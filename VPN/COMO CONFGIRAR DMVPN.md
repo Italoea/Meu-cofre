@@ -26,27 +26,13 @@ ex
 
 int tunnel0
 ip address 192.168.0.20 255.255.255.0
-ip nhrp authentication firewall
 ip nhrp map multicast dynamic
 ip nhrp authentication cisco
 ip nhrp network-id 1
 tunnel source lo0
 tunnel mode gre multipoint
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# NO HUB SÓ PRECISA FAZER ESSSA CONFIGURAÇÃO UMA UNICA VEZ, JÁ NOS SPOKES O COMANDO É O MESMO SÓ MUDA O IP  DA INTERFACE VPN E O DA LOOPBACK.
 
 
 ## PARA CONFIGURAR UM SPOKE USE OS COMANDOS:
